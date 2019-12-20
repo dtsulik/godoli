@@ -16,3 +16,4 @@ _global_script_class_icons={
 [application]
 
 config/name="godoli"
+run/main_scene="res://main_menu.tscn"
